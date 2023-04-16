@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/txt">
+        <file alias="help">resources/text/help/index.html</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>resources/icons/icons8-add-64.png</file>
+        <file alias="unsaved2">resources/icons/icons8-delete-16.png</file>
+        <file>resources/icons/icons8-opened-folder-64.png</file>
+        <file>resources/icons/icons8-save-as-64.png</file>
+        <file>resources/icons/icons8-send-to-printer-80(1).png</file>
+        <file>resources/icons/icons8-redo-80.png</file>
+        <file>resources/icons/icons8-undo-80.png</file>
+        <file>resources/icons/icons8-copy-64.png</file>
+        <file>resources/icons/icons8-cut-80.png</file>
+        <file>resources/icons/icons8-delete-64.png</file>
+        <file>resources/icons/icons8-paste-64.png</file>
+        <file>resources/icons/icons8-calendar-64.png</file>
+        <file>resources/icons/icons8-checked-64.png</file>
+        <file>resources/icons/icons8-find-64.png</file>
+        <file>resources/icons/icons8-linking-80.png</file>
+        <file>resources/icons/icons8-replace-96.png</file>
+        <file>resources/icons/icons8-type-80.png</file>
+        <file>resources/icons/icons8-word-wrap-96.png</file>
+        <file>resources/icons/icons8-about-96.png</file>
+        <file>resources/icons/icons8-help-80.png</file>
+        <file alias="check">resources/icons/icons8-checkmark-16.png</file>
+        <file alias="ready">resources/icons/icons8-ok-16.png</file>
+        <file>resources/icons/icons8-hand-with-pen-96.png</file>
+        <file>resources/icons/icons8-hand-with-pen-128.png</file>
+        <file>resources/icons/icons8-page-64.png</file>
+        <file>resources/icons/icons8-binoculars-64.png</file>
+        <file>resources/icons/icons8-binoculars-80.png</file>
+        <file>resources/icons/icons8-cancel-filled-50.png</file>
+        <file>resources/icons/icons8-replace-filled-50.png</file>
+    </qresource>
+</RCC>
